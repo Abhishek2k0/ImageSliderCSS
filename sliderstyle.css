@@ -1,10 +1,6 @@
 html, body{height:100%;}
 body{font:15px/1 sans-serif; margin:0;}
 
-/*
-RESPONSIVE CSS3 SLIDE CAROUSEL GALLERY
-http://stackoverflow.com/a/34696029/383904
-*/
 
 .CSSgal{
   position: relative;
